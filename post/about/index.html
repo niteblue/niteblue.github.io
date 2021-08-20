@@ -8,8 +8,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://niteblue.github.io/favicon.ico?v=1629443898576">
-<link rel="stylesheet" href="https://niteblue.github.io/styles/main.css">
+<link rel="shortcut icon" href="http://localhost:4000/favicon.ico?v=1629448284237">
+<link rel="stylesheet" href="http://localhost:4000/styles/main.css">
 
 
 
@@ -38,8 +38,8 @@
       <div class="sidebar" :class="{ 'full-height': menuVisible }">
   <div class="top-container" data-aos="fade-right">
     <div class="top-header-container">
-      <a class="site-title-container" href="https://niteblue.github.io">
-        <img src="https://niteblue.github.io/images/avatar.png?v=1629443898576" class="site-logo">
+      <a class="site-title-container" href="http://localhost:4000">
+        <img src="http://localhost:4000/images/avatar.png?v=1629448284237" class="site-logo">
         <h1 class="site-title">夜蓝的蓝</h1>
       </a>
       <div class="menu-btn" @click="menuVisible = !menuVisible">
@@ -82,6 +82,10 @@
         
       
         
+          <a class="social-link" href="http://weibo.com/puttiko" target="_blank">
+            <i class="fab fa-weibo"></i>
+          </a>
+        
       
         
       
@@ -92,7 +96,7 @@
       发现夜的蓝
     </div>
     <div class="site-footer">
-      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://niteblue.github.io/atom.xml" target="_blank">RSS</a>
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="http://localhost:4000/atom.xml" target="_blank">RSS</a>
     </div>
   </div>
 </div>
@@ -115,7 +119,7 @@
 <h2 id="兴趣爱好">兴趣爱好</h2>
 <p>阅读，旅行，运动</p>
 <h2 id="联系我呀">联系我呀</h2>
-<p>我们微博上见 <a href="weibo.com/puttiko">@菩提扣</a></p>
+<p>我们微博上见 <a href="http://weibo.com/puttiko">@菩提扣</a></p>
 
             </div>
             
@@ -143,6 +147,11 @@ var app = new Vue({
 
 </script>
 
+
+  <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>
+    hljs.initHighlightingOnLoad()
+  </script>
 
 
 

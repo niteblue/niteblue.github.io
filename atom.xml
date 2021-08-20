@@ -1,19 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://niteblue.github.io</id>
+    <id>http://localhost:4000</id>
     <title>夜蓝的蓝</title>
-    <updated>2021-08-20T07:36:32.051Z</updated>
+    <updated>2021-08-20T08:31:43.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://niteblue.github.io"/>
-    <link rel="self" href="https://niteblue.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>发现夜的蓝</subtitle>
-    <logo>https://niteblue.github.io/images/avatar.png</logo>
-    <icon>https://niteblue.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2021, 夜蓝的蓝</rights>
     <entry>
+        <title type="html"><![CDATA[羞答答的博客]]></title>
+        <id>http://localhost:4000/post/xiu-da-da-de-bo-ke/</id>
+        <link href="http://localhost:4000/post/xiu-da-da-de-bo-ke/">
+        </link>
+        <updated>2021-08-20T08:05:41.000Z</updated>
+        <summary type="html"><![CDATA[<p>作为web2.0时代的遗民，我永远钟情于blog……</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>作为web2.0时代的遗民，我永远钟情于blog……</p>
+<!-- more -->
+<p>在移动互联网时代，已经没有多少人读博客了。即便是微信公众号文章，也没有多少人能耐着性子从头到尾地读完了；甚至超过15秒的视频都需要人们付出额外的注意力。</p>
+<p>我是个喜欢凑热闹的人，所以以上传播方式我都注册过，但限于创作能力，只能浅尝辄止。而且，从我的内心喜好出发，我仍然钟情于通过文字来传播知识和信息。公众号虽好，但是那种push式的推送总给人一种强卖的嫌疑，让我不得不对自己发出的文章字斟句酌，哪怕是没人真正点开，那种强要把自己的东西塞给别人的感觉仍然让我每每放弃。</p>
+<p>有时我只是随便那么一句牢骚，为什么一定要塞到别人的手机里呢？可是，如果让我写下的文字只是待在自己的电脑里，我又有点儿不甘心，毕竟这也是这宇宙洪荒信息流的一滴水珠，谁知道它会不会遇到自己意料之外的一位知音呢？</p>
+<p>能满足我的条件的只有博客这一种形式。</p>
+<p>可是博客平台要么已经凋谢，要么在页面上挂载了各种丑陋的装饰；自己搭一个博客，却又有备案等一系列非技术性难题，实在令人不胜其烦。</p>
+<p>我远离IT技术很久了，曾经也是个程序员，用C++做些课题相关的小型程序，也疏于做什么版本控制、代码管理。后来知道GitHub时，我已经远离编程，做起了商务相关的工作。而如今，抛开了一切的我，总时不时想起编程时挠头但心境单纯的感觉。登上GitHub一看，原来竟然可以利用这个平台做一个静态博客。于是便马上操作了起来。</p>
+<p>自从接触Markdown，我就成了它的拥趸，所以看起来我跟GitHub其实还是挺合拍的。所以就从简单的方式开始，我乐于迎接一些技术难题，不过写写没人看，却又有可能被人看到的文字时，我的内心就是那么的欣喜。</p>
+<p>所以，就让这个博客静悄悄地开起来吧！</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://niteblue.github.io/post/hello-gridea/</id>
-        <link href="https://niteblue.github.io/post/hello-gridea/">
+        <id>http://localhost:4000/post/hello-gridea/</id>
+        <link href="http://localhost:4000/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
