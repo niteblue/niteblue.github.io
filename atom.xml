@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://niteblue.github.io</id>
     <title>夜蓝的蓝</title>
-    <updated>2021-08-20T08:31:43.747Z</updated>
+    <updated>2021-08-20T08:36:38.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://niteblue.github.io"/>
+    <link rel="self" href="https://niteblue.github.io/atom.xml"/>
     <subtitle>发现夜的蓝</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://niteblue.github.io/images/avatar.png</logo>
+    <icon>https://niteblue.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 夜蓝的蓝</rights>
     <entry>
         <title type="html"><![CDATA[羞答答的博客]]></title>
-        <id>http://localhost:4000/post/xiu-da-da-de-bo-ke/</id>
-        <link href="http://localhost:4000/post/xiu-da-da-de-bo-ke/">
+        <id>https://niteblue.github.io/post/xiu-da-da-de-bo-ke/</id>
+        <link href="https://niteblue.github.io/post/xiu-da-da-de-bo-ke/">
         </link>
         <updated>2021-08-20T08:05:41.000Z</updated>
         <summary type="html"><![CDATA[<p>作为web2.0时代的遗民，我永远钟情于blog……</p>
@@ -32,8 +32,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://localhost:4000/post/hello-gridea/</id>
-        <link href="http://localhost:4000/post/hello-gridea/">
+        <id>https://niteblue.github.io/post/hello-gridea/</id>
+        <link href="https://niteblue.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
