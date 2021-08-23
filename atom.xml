@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://niteblue.github.io</id>
     <title>夜蓝的蓝</title>
-    <updated>2021-08-23T03:26:23.166Z</updated>
+    <updated>2021-08-23T12:53:22.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://niteblue.github.io"/>
     <link rel="self" href="https://niteblue.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://niteblue.github.io/images/avatar.png</logo>
     <icon>https://niteblue.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 夜蓝的蓝</rights>
+    <entry>
+        <title type="html"><![CDATA[最崩溃的事]]></title>
+        <id>https://niteblue.github.io/post/most-frustrated-thing-20210823/</id>
+        <link href="https://niteblue.github.io/post/most-frustrated-thing-20210823/">
+        </link>
+        <updated>2021-08-23T12:32:48.000Z</updated>
+        <summary type="html"><![CDATA[<p>那就是大桥合龙时才发现一开始偏差了一个角度……</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>那就是大桥合龙时才发现一开始偏差了一个角度……</p>
+<!-- more -->
+<p>前两周雷老板回馈初代米粉，我收到了1999元大红包，那是我当初买小米1的钱。我在小米商城买了一堆小玩意，其中有一个400多块钱的积木机器人。</p>
+<p>今天跟娃一块拼。这个积木的难度对小仔来说还是有点儿大的，不过他的表现还不错，我也没有催促过他，按照他的速度慢慢拼。一下午的时间，我们接近完成第一部分（全部的1/4）时，我突然发现有一处无论如何都跟图纸不一样。仔细分析一下，我才发现，原来有一个长条形的部件，我们正好装偏了一个孔位（我们想当然地以为它的位置居中，但其实它向一边偏置了一个孔位）。我脑门的汗立刻就下来了。</p>
+<p>仔细看过之后，发现，要把那一对部件拆下来，我差不多要回到最初，几乎把已经装好的所有东西都拆散……</p>
+<p>这好比是，快要扣完所有扣子的时候，才发现第一颗扣子口歪了；大桥合龙时，才发现对不到一块儿……</p>
+<p>辛苦一下午的成果转眼就要全部作废。</p>
+<p>我又想起了很多年前，我和朋友约好在珠江新城看电影（诺兰的《蝙蝠侠3》）。本来我下车的位置距离电影院也就200多米，结果钻个地道出来之后，我没有仔细分辨方位，就蒙着头开始跑，结果越跑越远，最后不知道绕了多大的一个圈，回到电影院的时候，电影已经开场半个小时了……真是方向错了，速度越快，错得越远。</p>
+<p>崩溃！</p>
+<p>PS. 最后，我又花了一个小时把问题给纠正过来了。小米的这个玩具做得不错，做工精细，不比Lego差，而且配套的软件做得很不错，包装盒可以变成收纳盒，直击痛点，体验很好。</p>
+<!-- #日记 #随笔 -->]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1公斤的乒乓球拍]]></title>
         <id>https://niteblue.github.io/post/a-1kg-pingpong-bat/</id>
