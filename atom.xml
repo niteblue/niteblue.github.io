@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://niteblue.github.io</id>
     <title>夜蓝的蓝</title>
-    <updated>2021-08-30T07:16:22.171Z</updated>
+    <updated>2021-09-10T04:38:56.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://niteblue.github.io"/>
     <link rel="self" href="https://niteblue.github.io/atom.xml"/>
@@ -37,8 +37,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[最崩溃的事]]></title>
-        <id>https://niteblue.github.io/post/most-frustrated-thing-20210823/</id>
-        <link href="https://niteblue.github.io/post/most-frustrated-thing-20210823/">
+        <id>https://niteblue.github.io/post/most-frustrating-thing-20210823/</id>
+        <link href="https://niteblue.github.io/post/most-frustrating-thing-20210823/">
         </link>
         <updated>2021-08-23T12:32:48.000Z</updated>
         <summary type="html"><![CDATA[<p>那就是大桥合龙时才发现一开始偏差了一个角度……</p>
